@@ -16,7 +16,7 @@ export const IMAGES = {
   MODEL_PATH: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&q=80&w=1600&h=900", // Team/Steps
 
   // Updated to Vertical Images for Growth
-  GROWTH_1: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=800&h=1200", 
+  GROWTH_1: "https://storage.googleapis.com/zhuboquanyi/%E6%88%90%E9%95%BF%E4%BD%93%E7%B3%BB.jpeg", 
   GROWTH_2: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=800&h=1200",
   GROWTH_3: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=800&h=1200",
   // Updated to Vertical Images for Benefits
