@@ -17,8 +17,8 @@ export const IMAGES = {
 
   // Updated to Vertical Images for Growth
   GROWTH_1: "https://storage.googleapis.com/zhuboquanyi/%E6%88%90%E4%B8%BA%E4%B8%BB%E6%92%AD.jpeg", 
-  GROWTH_2: "https://storage.googleapis.com/zhuboquanyi/%E7%AD%BE%E7%BA%A6%E6%BF%80%E6%B4%BB.jpeg",
-  GROWTH_3: "https://storage.googleapis.com/zhuboquanyi/%E8%BF%9B%E9%98%B6%E4%B9%8B%E8%B7%AF.jpeg",
+  GROWTH_2: "https://storage.googleapis.com/zhuboquanyi/%E8%BF%9B%E9%98%B6%E4%B9%8B%E8%B7%AF.jpeg",
+  GROWTH_3: "https://storage.googleapis.com/zhuboquanyi/%E7%AD%BE%E7%BA%A6%E6%BF%80%E6%B4%BB.jpeg",
   // Updated to Vertical Images for Benefits
   BENEFIT_TRAFFIC: "https://storage.googleapis.com/zhuboquanyi/%E6%B5%81%E9%87%8F%E7%B1%BB-%E5%88%B7%E6%96%B0.jpeg",
   BENEFIT_MONEY: "https://storage.googleapis.com/zhuboquanyi/%E5%8F%98%E7%8E%B0%E7%B1%BB.jpeg",
@@ -59,23 +59,23 @@ export const OVERVIEW_DATA = [
 export const GROWTH_STEPS = [
   {
     id: '1',
-    title: '积累粉丝',
+    title: '成为主播',
     subtitle: 'ACCUMULATE FANS',
-    description: '注册成为主播，开启直播生涯，通过优质内容积累粉丝，并有官方支持。',
+    description: '注册成为主播，开启直播生涯和成长之路。',
     image: IMAGES.GROWTH_1,
   },
   {
     id: '2',
-    title: '签约激活',
-    subtitle: 'SIGNING & ACTIVATION',
-    description: '达到标准成为签约主播，正式激活官方成长体系，解锁专属权限。',
+    title: '成长之路',
+    subtitle: 'ROAD TO GLORY',
+    description: '随着粉丝量、开播及任务完成，不断提升主播等级，解锁更多权益。',
     image: IMAGES.GROWTH_2,
   },
   {
     id: '3',
-    title: '进阶之路',
-    subtitle: 'ROAD TO GLORY',
-    description: '随着粉丝量级提升及任务完成，等级不断攀升，解锁更多独家核心权益。',
+    title: '签约主播',
+    subtitle: 'SIGNING & ACTIVATION',
+    description: '成为签约主播，解锁更多独家权益，获得更多官方支持。',
     image: IMAGES.GROWTH_3,
   },
 ];
@@ -135,7 +135,7 @@ export const TRAFFIC_BENEFITS = {
     },
     {
       id: 't4',
-      title: '主播惊喜夜',
+      title: '更多官方激励活动',
       description: '官方投入海量皮肤，主播直播间免费送礼，瞬间引爆直播间流量。',
       image: "https://storage.googleapis.com/zhuboquanyi/benefits/%E4%B8%BB%E6%92%AD%E6%83%8A%E5%96%9C%E5%A4%9C2.jpeg",
     },
@@ -178,8 +178,8 @@ export const MONETIZATION_BENEFITS = {
     },
     {
       id: 'm5',
-      title: '端内定制支持度礼物',
-      description: '沉淀端内粉丝，直播间外也能享受粉丝礼物分成。',
+      title: '端内粉丝等级',
+      description: '粉丝支持主播获得等级提升，主播获得收益分成。',
       image: "https://storage.googleapis.com/zhuboquanyi/benefits/%E7%AB%AF%E5%86%85%E9%80%81%E7%A4%BC.jpeg",
     },
   ]
@@ -187,11 +187,11 @@ export const MONETIZATION_BENEFITS = {
 
 export const SOCIAL_BENEFITS = {
   title: "社交类权益",
-  subtitle: "独占社交体验，让你和粉丝倍儿有排面",
+  subtitle: "独占社交体验，和粉丝互动更方便",
   items: [
     {
       id: 's1',
-      title: '粉丝等级灯牌',
+      title: '粉丝灯牌专属权益',
       description: '粉丝挂上专属灯牌，自定义粉丝权益，i播宝宝们快上车。',
       image: "https://storage.googleapis.com/zhuboquanyi/benefits/%E7%B2%89%E4%B8%9D%E7%AD%89%E7%BA%A7%E7%81%AF%E7%89%8C.jpeg",
     },
