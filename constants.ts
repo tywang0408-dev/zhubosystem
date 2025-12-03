@@ -10,7 +10,7 @@ export const IMAGES = {
   OVERVIEW_ALLOC: "https://storage.googleapis.com/zhuboquanyi/%E6%9D%83%E7%9B%8A%E5%88%86%E9%85%8D.jpeg",
   
   // Strategy Section Images
-  TRENDS_CHART: "https://storage.googleapis.com/zhuboquanyi/%E6%8A%96%E9%9F%B3%E5%A2%9E%E9%95%BF.jpg", // Chart showing growth
+  TRENDS_CHART: "https://storage.googleapis.com/zhuboquanyi/%E6%8A%96%E9%9F%B33.jpg", // Chart showing growth
   BUSINESS_BG: "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?auto=format&fit=crop&q=80&w=1600&h=900", // Coins/Business
   TRAFFIC_NETWORK: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80&w=1600&h=900", // Network connections
   MODEL_PATH: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&q=80&w=1600&h=900", // Team/Steps
