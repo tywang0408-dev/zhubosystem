@@ -16,14 +16,14 @@ export const IMAGES = {
   MODEL_PATH: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&q=80&w=1600&h=900", // Team/Steps
 
   // Updated to Vertical Images for Growth
-  GROWTH_1: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=800&h=1200", 
-  GROWTH_2: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=800&h=1200",
-  GROWTH_3: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=800&h=1200",
+  GROWTH_1: "https://storage.googleapis.com/zhuboquanyi/%E6%88%90%E4%B8%BA%E4%B8%BB%E6%92%AD.jpeg", 
+  GROWTH_2: "https://storage.googleapis.com/zhuboquanyi/%E7%AD%BE%E7%BA%A6%E6%BF%80%E6%B4%BB.jpeg",
+  GROWTH_3: "https://storage.googleapis.com/zhuboquanyi/%E8%BF%9B%E9%98%B6%E4%B9%8B%E8%B7%AF.jpeg",
   // Updated to Vertical Images for Benefits
-  BENEFIT_TRAFFIC: "https://picsum.photos/id/1041/800/1200",
-  BENEFIT_MONEY: "https://picsum.photos/id/1033/800/1200",
-  BENEFIT_SOCIAL: "https://picsum.photos/id/1025/800/1200",
-  BENEFIT_HONOR: "https://picsum.photos/id/1015/800/1200",
+  BENEFIT_TRAFFIC: "https://storage.googleapis.com/zhuboquanyi/%E6%B5%81%E9%87%8F%E7%B1%BB-%E5%88%B7%E6%96%B0.jpeg",
+  BENEFIT_MONEY: "https://storage.googleapis.com/zhuboquanyi/%E5%8F%98%E7%8E%B0%E7%B1%BB.jpeg",
+  BENEFIT_SOCIAL: "https://storage.googleapis.com/zhuboquanyi/%E7%A4%BE%E4%BA%A4%E7%B1%BB-%E6%96%B0.jpeg",
+  BENEFIT_HONOR: "https://storage.googleapis.com/zhuboquanyi/%E8%8D%A3%E8%AA%89%E7%B1%BB.jpeg",
   
   TRAFFIC_BG: "https://picsum.photos/id/1041/1200/800",
   MONEY_BG: "https://picsum.photos/id/1033/1200/800",
