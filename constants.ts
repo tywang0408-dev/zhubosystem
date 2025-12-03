@@ -10,7 +10,7 @@ export const IMAGES = {
   OVERVIEW_ALLOC: "https://storage.googleapis.com/zhuboquanyi/%E6%9D%83%E7%9B%8A%E5%88%86%E9%85%8D.jpeg",
   
   // Strategy Section Images
-  TRENDS_CHART: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=1600&h=900", // Chart showing growth
+  TRENDS_CHART: "https://storage.googleapis.com/zhuboquanyi/%E6%8A%96%E9%9F%B3%E5%A2%9E%E9%95%BF.jpg", // Chart showing growth
   BUSINESS_BG: "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?auto=format&fit=crop&q=80&w=1600&h=900", // Coins/Business
   TRAFFIC_NETWORK: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80&w=1600&h=900", // Network connections
   MODEL_PATH: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&q=80&w=1600&h=900", // Team/Steps
@@ -180,7 +180,7 @@ export const MONETIZATION_BENEFITS = {
       id: 'm5',
       title: '端内粉丝等级',
       description: '粉丝支持主播获得等级提升，主播获得收益分成。',
-      image: "https://storage.googleapis.com/zhuboquanyi/benefits/%E7%AB%AF%E5%86%85%E9%80%81%E7%A4%BC.jpeg",
+      image: "https://storage.googleapis.com/zhuboquanyi/%E7%B2%89%E4%B8%9D%E6%94%AF%E6%8C%81.jpg",
     },
   ]
 };
